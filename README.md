@@ -1,6 +1,6 @@
 # SassyStarter
 
-This is basically the starter code that I use to maintain all my projects, rapidly prototyping, and stubbing out components and focusing on how they will be made accessible. I like to use the W3C's official accessible github maintained by Facebook's Matthew King. I find maintaining in SCSS to be fast and reliable. Watch out for nesting your selectors though! Opt for specific naming or use web components / Shadow DOM!
+This is basically the starter code that I use to maintain all my projects, rapidly prototyping, and stubbing out components and focusing on how they will be made accessible. I like to use the W3C's official accessible github maintained by Facebook's Matthew King. I find maintaining in SCSS to be fast and reliable. Watch out for nesting your selectors though! Opt for specific naming or use web components / Shadow DOM!  As you already know, Twitter Bootstrap is great for prototyping and learning to code... however, when you're ready to do it yourself you already know there's a better way to go about this! This isn't another CSS framework this is just an organized approach to doing all the things you need to do in CSS to layout a website. It's everything you never wanted to learn wrapped up tightly in a succinct, simple to use format.
 
 You can use CSSNext and PostCSS to clean things up later.
 
