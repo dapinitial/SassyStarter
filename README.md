@@ -15,5 +15,5 @@ https://www.npmjs.com/package/color-blind
 For now, I would encourage you to:
 1.       Use native HTML as much as possible; avoid custom widgets unless you really need them.
 2.       Study the patterns and examples in the authoring practices and see if they help.  Let me know where/how they fall short.
-3.       Find ways of doing some formal, or even informal, user  research where you can observe how people with various disabilities use the web.
+3.       Find ways of doing some formal, or even informal, user  research where you can observe how people with various disabilities use the web. Check out https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67 and Google's A11yCasts on Youtube.
  
