@@ -4,7 +4,13 @@ This is basically the starter code that I use to maintain all my projects, rapid
 
 You can use CSSNext and PostCSS to clean things up later.
 
+Aria resources from developers who have championed for accessibility because they use assistive technologies themselves!
 http://w3c.github.io/aria-practices/
+http://w3c.github.io/aria-practices/examples/
+
+Color-blindness package! 
+https://www.npmjs.com/package/color-blind
+
 
 For now, I would encourage you to:
 1.       Use native HTML as much as possible; avoid custom widgets unless you really need them.
